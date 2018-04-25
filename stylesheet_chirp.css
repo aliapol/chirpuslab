@@ -37,6 +37,7 @@ li:hover {
     width: 500px;
     padding-left: 20px;
     float: left;
+    color: #69696a;
 }
 
 
@@ -88,5 +89,5 @@ footer {
     width: 100px;
     line-height: 35px;
     margin-left: 40%;
-    margin-top: 50px;
+    margin-top: 5%;
 }
